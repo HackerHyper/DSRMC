@@ -17,7 +17,7 @@ numpy>=1.21.6
 scikit-learn>=1.0.2
 
 ## 3.Datasets
-BRCA, GBM, and ROSMAP
+BRCA, GBM, and ROSMAP(come from mmdynamics CVPR'2023)
 
 
 ## 4.Usage
